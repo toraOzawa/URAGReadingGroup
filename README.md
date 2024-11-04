@@ -1,1 +1,1 @@
-# Algebraic Geometry Reading Group at the University of Rochester
+# University of Rochester Algebraic Geometry Reading Group 
